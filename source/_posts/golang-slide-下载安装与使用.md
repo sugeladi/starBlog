@@ -104,7 +104,7 @@ $ vi example.slide
     [golang](http://talks.godoc.org/github.com/sugeladi/slide/example.slide)
     
     ```
-- 效果如下
+- 效果如下:
     [go-talks](http://go-talks.appspot.com/github.com/sugeladi/slide/example.slide#1)
         
     [golang](http://talks.godoc.org/github.com/sugeladi/slide/example.slide)
@@ -112,3 +112,5 @@ $ vi example.slide
     [kibana-go-talks](http://go-talks.appspot.com/github.com/sugeladi/slide/kibana.slide#1)
             
     [kibana-golang(推荐使用)](http://talks.godoc.org/github.com/sugeladi/slide/kibana.slide)
+   
+    
