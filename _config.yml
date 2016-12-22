@@ -69,6 +69,5 @@ theme: lightum
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  message: add new post
-  repo:
-   github: git@github.com:sugeladi/sugeladi.github.com.git,master
+  repository: http://sugeladi:8831925git@github.com/sugeladi/sugeladi.github.com
+  branch: master
