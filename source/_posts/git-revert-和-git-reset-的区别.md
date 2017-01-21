@@ -8,6 +8,7 @@ date: 2017-01-20 11:52:11
 
 ##### 在日常的工作中,我们偶尔会遇到需要在远程服务器上回退几个版本的需求,git reset和gitrevert 都可以处理这类需求,个人比较推荐使用git revert。
 * ###### git reset 是删除本次提交，git revert是撤销某次commit并且会把这个撤销动作当成一次新的commit.
+<!--more-->
 * ###### git reset是把HEAD向后移动了一下，而git revert是向前移动了一下
 * ###### git reset时直接删除制定commit，而gitrevert是用新的commit来回滚之前的commit
 
